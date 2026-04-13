@@ -1,6 +1,8 @@
 # Clippy-for-MITRE
 Created to help me quickly get information on Enterprise MITRE tactics
 
+![MITRE Enterprise Tactics](MITRE.tactics.png)
+
 ## Simple MITRE Agent Bot
 
 This repo now includes a local CLI bot that lets you ask questions about MITRE ATT&CK Enterprise data.
